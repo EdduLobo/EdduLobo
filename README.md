@@ -13,7 +13,7 @@ preview
 - ⚡ Fun fact **I have a thousand hours of Skyrim gameplay, over two million mastery points with champion Sion, and I occasionally play Stardew Valley, which inspired me a lot to one day create my own game.**
 
 
-
+  
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=EdduLobo&bg_color=000000&color=cb6cfe&line=a600ff&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
