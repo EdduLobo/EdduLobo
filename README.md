@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on [Bookcase](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e3-proj-mov-t7-bookcase.git)
 
-- 🌱 I’m currently learning **React Native, Java Script, NodeJS and GDscript**
+- 🌱 I’m currently learning **React Native, Java Script, NodeJS, MySql and GDscript**
 
 - 👨‍💻 All of my projects are available at [https://eddulobo.github.io/DuLobo/](https://eddulobo.github.io/DuLobo/)
 
