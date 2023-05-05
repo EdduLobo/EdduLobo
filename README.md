@@ -13,13 +13,13 @@
 - 🔭 Atualmente estou trabalhando em [Bookcase](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e3-proj-mov-t7-bookcase.git)
 
 - 🌱 I’m currently learning **React Native, Java Script, NodeJS, MySql and GDscript**
-- 🌱 No momento estou aprendendo **React Native, Java Script, NodeJS, MySql and GDscript**
+- 🌱 No momento estou aprendendo **React Native, Java Script, NodeJS, MySql and GDscript**  
 
 - 👨‍💻 All of my projects are available at [https://eddulobo.github.io/DuLobo/](https://eddulobo.github.io/DuLobo/)
-- 👨‍💻 Todos os meus projetos estão disponíveis em [https://eddulobo.github.io/DuLobo/](https://eddulobo.github.io/DuLobo/)
+- 👨‍💻 Todos os meus projetos estão disponíveis em [https://eddulobo.github.io/DuLobo/](https://eddulobo.github.io/DuLobo/)  
 
 - 📫 Contact me **contactedulobo@gmail.com**
-- 📫 Contate-me **contactedulobo@gmail.com**
+- 📫 Contate-me **contactedulobo@gmail.com**  
 
 - ⚡ Fun fact **I have a thousand hours of Skyrim gameplay, over two million mastery points with champion Sion, and I occasionally play Stardew Valley, which inspired me a lot to one day create my own game.**
  
