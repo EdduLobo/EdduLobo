@@ -3,7 +3,7 @@
 <h3 align="center">Studying to be a good Frontend developer and maybe a future indie game dev XD</h3>
 <h3 align="center">Estudando para ser um bom desenvolvedor Frontend e talvez um futuro indie game dev XD</h3>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=EdduLobo&bg_color=000000&color=cb6cfe&line=a600ff&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 
 
