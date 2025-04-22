@@ -1,7 +1,4 @@
 
-<h1 align="center">Hi 👋, I'm Eduardo Lobo</h1>
-<h3 align="center">Studying to be a good Frontend developer and maybe a future indie game dev XD</h3>
-<h3 align="center">Estudando para ser um bom desenvolvedor Frontend e talvez um futuro indie game dev XD</h3>
 
 - 📫 Contact me **contactedulobo@gmail.com**
 - 📫 Contate-me **contactedulobo@gmail.com**  
